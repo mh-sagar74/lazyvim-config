@@ -3,7 +3,14 @@
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
-Use in other computer
+Full Setup in New Computer:
+# 1. Install Neovim (The Engine).
+
+# 2. Install a Nerd Font (The Icons).
+
+# 3. Install ripgrep & build-essential (The Speed).
+
+Use The Stable Config to Computer
 # 1. Clean any existing nvim data
 `rm -rf ~/.config/nvim ~/.local/share/nvim ~/.local/state/nvim ~/.cache/nvim`
 
